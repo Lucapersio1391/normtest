@@ -3,6 +3,7 @@
 #' @param ... Any argument for inner functions basic_stats and tests
 #' @return List of class normtest
 #' @examples
+#' # Three main examples
 #' # basic examples
 #' set.seed(101)
 #' x <- rnorm(10^2, 7, 1)
